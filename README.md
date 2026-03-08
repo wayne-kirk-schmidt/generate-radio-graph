@@ -1,4 +1,4 @@
-# Generative AI Tool Comparison (Weighted)
+# Generate-Radio-Graph
 
 ---
 ## Table of Contents
