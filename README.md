@@ -21,7 +21,7 @@ avoids styling libraries to keep the code portable.
 
 The script generates a radar chart similar to the following:
 
-![AI Agents Comparison](generative_ai_tools_radar.png)
+![AI Agents Comparison](img/generative_ai_tools_radar_fixed.png)
 
 ------------------------------------------------------------------------
 
